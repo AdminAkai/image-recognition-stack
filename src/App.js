@@ -40,8 +40,6 @@ class App extends Component {
         <Navigation />
         <Logo />
         <ImageLinkForm />
-          {/*
-        <FaceRecognition /> */}
       </div>
     );
   }
